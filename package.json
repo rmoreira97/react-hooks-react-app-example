@@ -6,7 +6,9 @@
     "date-fns": "^2.16.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "^5.0.1",
+    "stream-browserify": "^3.0.0",
+    "util": "^0.12.5"
   },
   "devDependencies": {
     "@learn-co-curriculum/jest-learn-reporter": "^0.1.0",
